@@ -11,8 +11,10 @@ const Menu = () => (
             display: 'flex',
             justifyContent: 'space-evenly'
         }}>
-            <li> <Link to="/">Home</Link> </li>
-            <li><Link to="/my-bio">Biodata Saya</Link></li>
+            <li> <Link to="/">Beranda</Link> </li>
+    <li> <Link to="/">Menu</Link> </li>
+    <li> <Link to="/">Gallery</Link> </li>
+            <li><Link to="/biodata">Biodata Saya</Link></li>
         </ul>
     </div>
 )
