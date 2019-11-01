@@ -18,11 +18,11 @@ author: "Patricia"
 **Alamat: Jl. Rawa Roko No.88 , Bekasi** </br>
 **Hobby : Membaca** </br>
 
-## Silahkan Follow Saya Di
+### Silahkan Follow Saya Di
 
-### [Facebook](https://www.facebook.com/patricia.lora.925) 
-### [Instagram](http://instagram.com/lorrainepatricia249) 
-### [My Website](https://patriciaayunda.com)
+#### [Facebook](https://www.facebook.com/patricia.lora.925) 
+#### [Instagram](http://instagram.com/lorrainepatricia249) 
+#### [My Website](https://patriciaayunda.com)
 
 
 
