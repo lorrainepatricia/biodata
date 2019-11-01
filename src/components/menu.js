@@ -14,9 +14,5 @@ const Menu = () => (
             <li> <Link to="/">Beranda</Link> </li>
     <li> <Link to="/">Menu</Link> </li>
     <li> <Link to="/">Gallery</Link> </li>
-            <li><Link to="/biodata">Biodata</Link></li>
-        </ul>
-    </div>
-)
-    
-export default Menu
+            <li><Link to="/biodata">About Me</Link></li>
+        
